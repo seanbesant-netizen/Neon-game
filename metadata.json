@@ -1,0 +1,6 @@
+{
+  "name": "Neon Grid Runner",
+  "description": "Fast-paced neon maze runner where players drift, dash, and dodge lethal security drones, laser grids, and pulsing hazards to chase high score combos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
